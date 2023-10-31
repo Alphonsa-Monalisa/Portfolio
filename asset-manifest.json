@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1ad0c903.css",
+    "main.js": "/Portfolio/static/js/main.32d8c8a6.js",
+    "static/media/movies.png": "/Portfolio/static/media/movies.0b653a61f9c9b9d723e7.png",
+    "static/media/Restuarant.png": "/Portfolio/static/media/Restuarant.ebf6526e2446df797383.png",
+    "static/media/FitBit.png": "/Portfolio/static/media/FitBit.3d2669b8fc8bafdd51af.png",
+    "static/media/social.png": "/Portfolio/static/media/social.02835d069b37e6e3cd62.png",
+    "static/media/HeroImage.jpg": "/Portfolio/static/media/HeroImage.72ee7a1d07c59e91514d.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.1ad0c903.css.map": "/Portfolio/static/css/main.1ad0c903.css.map",
+    "main.32d8c8a6.js.map": "/Portfolio/static/js/main.32d8c8a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad0c903.css",
+    "static/js/main.32d8c8a6.js"
+  ]
+}
